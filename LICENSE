@@ -1,0 +1,27 @@
+Squad Sports SDK License Agreement
+
+Copyright (c) 2026 Envested Inc (dba Squad)
+
+This software and associated documentation files (the "SDK") are the
+proprietary property of Envested Inc (dba Squad). The SDK is licensed,
+not sold, to you under the terms of your Partner Agreement with Squad.
+
+You may:
+  - Use the SDK solely within your application(s) as described in your
+    Partner Agreement
+  - Make copies of the SDK as reasonably necessary for backup and
+    development purposes
+
+You may not:
+  - Reverse-engineer, decompile, or disassemble the SDK
+  - Redistribute the SDK outside your application
+  - Use the SDK to build a competing product or service
+  - Modify the SDK in ways that circumvent security, licensing, or
+    usage controls
+  - Sublicense, sell, or transfer the SDK to any third party
+
+THE SDK IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED. IN NO EVENT SHALL SQUAD BE LIABLE FOR ANY INDIRECT, INCIDENTAL,
+SPECIAL, OR CONSEQUENTIAL DAMAGES ARISING OUT OF THE USE OF THE SDK.
+
+For licensing inquiries, contact legal@squadforsports.com.
