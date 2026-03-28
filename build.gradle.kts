@@ -1,5 +1,15 @@
 plugins {
-    id("com.android.library") version "8.2.0" apply false
-    id("org.jetbrains.kotlin.android") version "1.9.22" apply false
-    id("com.google.protobuf") version "0.9.4" apply false
+    `maven-publish`
+}
+group = "com.github.withyoursquad"
+version = "1.6.0"
+publishing {
+    publications {
+        create<MavenPublication>("release") {
+            groupId = "com.github.withyoursquad"
+            artifactId = "squad-sports-android"
+            version = "1.6.0"
+            artifact("squad-sports-android-1.6.0.aar")
+        }
+    }
 }
